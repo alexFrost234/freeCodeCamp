@@ -17,3 +17,12 @@ var b;
 
 You should only subtract one number from 45. /*
 var difference = 45 - 0;
+// Variable declarations
+var StUdLyCapVaR;
+var properCamelCase;
+var TitleCaseOver;
+
+// Variable assignments
+STUDLYCAPVAR = 10;
+PRoperCAmelCAse = "A String";
+tITLEcASEoVER = 9000;
